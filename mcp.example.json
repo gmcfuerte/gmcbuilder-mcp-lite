@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "gmcbuilder-mcp-lite": {
+      "command": "<absolute-path-to-venv-python>",
+      "args": [
+        "-m",
+        "gmcbuilder_mcp_lite"
+      ],
+      "env": {
+        "GMCBUILDER_MCP_LITE_SITES": "<absolute-path-to-local-sites.json>"
+      }
+    }
+  }
+}
