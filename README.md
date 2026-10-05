@@ -1,6 +1,6 @@
 # GMC Builder MCP Lite
 
-Free limited companion to the GMC Pro product. This is a separate **0.1.0**
+Free limited companion to the GMC Pro product. This is a separate **0.1.1**
 client with a fresh history and only four read-only MCP tools. The Pro
 implementation is absent from this repository.
 
