@@ -16,7 +16,7 @@ implementation is absent from this repository.
 | Full export/import, bulk editing, backups | No | Paid functionality |
 | Private Pro implementation or CMS companion source | Absent | Separately distributed |
 
-Contact **gmcfuerte@gmail.com** for the Pro product and current annual plans; see the [GMC catalogue](https://fuerteventuratv.net/en/cms).
+See [Pro features and current annual plans](https://fuerteventuratv.net/en/cms/gmcbuilder-mcp). Contact **gmcfuerte@gmail.com** for companion requirements or product questions.
 
 Lite is free to use under the [limited commercial licence](LICENSE).
 Source visibility does not grant redistribution or resale rights.
@@ -33,7 +33,11 @@ MCP clients decide how resources are displayed, so this is not a guaranteed
 popup or a graphical settings panel. Ask your assistant to read the resource
 if its client does not expose a resource browser.
 
-[Read the practical Lite guide](https://fuerteventuratv.net/en/joomla-app/1887-gmc-mcp-lite-practical-guide).
+## Guide and presentation
+
+- [Practical Lite guide (English)](https://fuerteventuratv.net/en/joomla-app/1887-gmc-mcp-lite-practical-guide): prerequisites, setup and a first read-only session.
+- [Presentation for clients (Italian PDF)](https://fuerteventuratv.net/images/manuali-cms/GMC-MCP-presentazione-clienti-IT-20261012.pdf): a short overview of the three Lite clients and the separate Pro editions.
+- [Pro features and annual plans](https://fuerteventuratv.net/en/cms/gmcbuilder-mcp).
 
 ## Prerequisites
 
